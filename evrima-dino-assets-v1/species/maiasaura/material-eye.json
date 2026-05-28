@@ -1,0 +1,289 @@
+{
+  "Type": "MaterialInstanceConstant",
+  "Name": "MI_Maiasaura_Eye",
+  "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+  "Class": "UScriptClass'MaterialInstanceConstant'",
+  "Package": "/Game/TheIsle/Characters/Dinosaurs/Maiasaura/Materials/MI_Maiasaura_Eye",
+  "Properties": {
+    "Parent": {
+      "ObjectName": "Material'M_MasterEye'",
+      "ObjectPath": "/Game/TheIsle/MaterialLibrary/Utility/M_MasterEye.0"
+    },
+    "ScalarParameterValues": [
+      {
+        "ParameterInfo": {
+          "Name": "AO_Multiply",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.3,
+        "ExpressionGUID": "B2C49207-41ED182D-E86FA29B-426D81FB"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Color_Iris_Hue",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.449541,
+        "ExpressionGUID": "4F576921-4CA004A4-10558891-7487C429"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Iris_Concavity_Power",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.2767,
+        "ExpressionGUID": "1124C163-4218B7A7-99C47781-7601E5F7"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Iris_Concavity_Scale",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.111,
+        "ExpressionGUID": "9C26F254-4FC9A422-F93B4F8E-96C87766"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Rough_Iris_Amount",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.0,
+        "ExpressionGUID": "B2A3980F-49E404E1-D0D137A8-EE4A99A5"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Rough_Sclera_Amount",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.0,
+        "ExpressionGUID": "2AB78578-4B2CC089-E3371CA9-E7E8CE03"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Specular_Iris_Amount",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 1.0,
+        "ExpressionGUID": "19DBF025-4EB670CB-0BBDF4B8-9315FED8"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Specular_Scelera_Amount",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 1.0,
+        "ExpressionGUID": "B8848828-45A6D4CB-360E3E90-A58F6018"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Limbus_Power",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 8.0,
+        "ExpressionGUID": "A5284EE1-43933435-A7E5D5B5-C4F51513"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Limbus_Scale",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 2.0,
+        "ExpressionGUID": "7B0E8B20-4945CBF3-F6AAE7A8-FCD06B6F"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Limbus_UVWidth_Color",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.053349,
+        "ExpressionGUID": "AF8F9C0A-473517D5-F7B8319D-038134CD"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Limbus_UVWidth_Shading",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.045,
+        "ExpressionGUID": "BFA969EE-439AA6CC-2905B08B-0240FDAB"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Shadow_Hardness",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.1,
+        "ExpressionGUID": "2D8D4CFA-4856330E-6A55ABB2-4EC3807A"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Shadow_Radius",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.65,
+        "ExpressionGUID": "811BB5F0-4B5B0799-92126295-6001BAB6"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Normal_Flatten",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.99,
+        "ExpressionGUID": "9F102670-4F95EF6B-6006C7A8-1453AAB5"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Normal_UVScale",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 2.4,
+        "ExpressionGUID": "3865DB8F-4755EAB9-D986DFA7-2F11E916"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Center_Scale",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 1.0,
+        "ExpressionGUID": "EC86A86B-4863002B-792A2486-B18876E9"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Iris_Scale",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.30844,
+        "ExpressionGUID": "E9BEC1BC-4F39E1D4-C27A0BAC-57616B21"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Pupil_Scale",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.690826,
+        "ExpressionGUID": "22262F53-48FF0D93-D157E4B5-F21C9A73"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Sclera_Brightness",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.0,
+        "ExpressionGUID": "D5707B46-456D6D66-2C7B0285-72773D92"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Veins_Amount",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.5,
+        "ExpressionGUID": "DCA1DEE4-4ABA2DA5-B7009582-9C462C3A"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "RefractionDepthBias",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.0,
+        "ExpressionGUID": "00000000-00000000-00000000-00000000"
+      }
+    ],
+    "VectorParameterValues": [
+      {
+        "ParameterInfo": {
+          "Name": "Color_Iris",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": {
+          "R": 1.0,
+          "G": 0.482262,
+          "B": 0.239013,
+          "A": 2.0,
+          "Hex": "FFB986"
+        },
+        "ExpressionGUID": "F2477D11-49C8D7A2-F2218BB4-87969FB6"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Color_Sclera_Inner",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": {
+          "R": 0.855,
+          "G": 0.675905,
+          "B": 0.636975,
+          "A": 0.0,
+          "Hex": "EED7D1"
+        },
+        "ExpressionGUID": "B34EC814-4B9A4264-59F9DE8C-E299EA5E"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Color_Sclera_Outer",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": {
+          "R": 0.775,
+          "G": 0.11625,
+          "B": 0.0,
+          "A": 1.0,
+          "Hex": "E46000"
+        },
+        "ExpressionGUID": "F81D5CAE-489A945F-DF5D0B80-C5D25BC0"
+      }
+    ],
+    "TextureParameterValues": [
+      {
+        "ParameterInfo": {
+          "Name": "Eye Texture",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": {
+          "ObjectName": "Texture2D'T_Eye_Base2_BC'",
+          "ObjectPath": "/Game/TheIsle_Old/Characters/Dinosaurs/Base/T_Eye_Base2_BC.0"
+        },
+        "ExpressionGUID": "00E78A4B-4B1A5CE5-3EEBA691-B4D1718E"
+      }
+    ],
+    "BasePropertyOverrides": {
+      "OpacityMaskClipValue": 0.3333
+    },
+    "TextureStreamingData": [
+      {
+        "SamplingScale": 1.0,
+        "UVChannelIndex": 0,
+        "TextureName": "T_Eye_Sclera_D"
+      }
+    ],
+    "bIncludedInBaseGame": true
+  },
+  "LoadedMaterialResources": [],
+  "CachedData": {
+    "ParentLayerIndexRemap": []
+  }
+}
