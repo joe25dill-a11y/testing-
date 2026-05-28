@@ -1,0 +1,117 @@
+﻿[
+    {
+        "species":  "allosaurus",
+        "files":  11,
+        "missing":  "fx-mask.png"
+    },
+    {
+        "species":  "austroraptor",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "baryonyx",
+        "files":  11,
+        "missing":  "detail-mask.png"
+    },
+    {
+        "species":  "beipiaosaurus",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "carnotaurus",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "ceratosaurus",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "compsognathus",
+        "files":  7,
+        "missing":  "pattern-hatchling.png,pattern-juvenile.png,fx-mask.png"
+    },
+    {
+        "species":  "deinosuchus",
+        "files":  12,
+        "missing":  "fx-mask.png"
+    },
+    {
+        "species":  "diabloceratops",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "dilophosaurus",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "dryosaurus",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "gallimimus",
+        "files":  11,
+        "missing":  "detail-mask.png"
+    },
+    {
+        "species":  "herrerasaurus",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "hypsilophodon",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "maiasaura",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "omniraptor",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "pachycephalosaurus",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "pteranodon",
+        "files":  13,
+        "missing":  ""
+    },
+    {
+        "species":  "stegosaurus",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "tenontosaurus",
+        "files":  11,
+        "missing":  "fx-mask.png"
+    },
+    {
+        "species":  "triceratops",
+        "files":  12,
+        "missing":  ""
+    },
+    {
+        "species":  "troodon",
+        "files":  13,
+        "missing":  ""
+    },
+    {
+        "species":  "tyrannosaurus",
+        "files":  12,
+        "missing":  ""
+    }
+]
